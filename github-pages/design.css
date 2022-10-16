@@ -1,0 +1,14 @@
+#ideas {
+    font-family: 'Cascadia Code';
+    font-style: italic;
+}
+
+#title {
+    font-family: 'Cascadia Code';
+    font-size: large;
+    font-weight: bold;
+}
+
+.body {
+    background-color: rgba(240, 248, 255, 20);
+}

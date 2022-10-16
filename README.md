@@ -8,7 +8,7 @@ It is an app that generates a random password
 ## 4. Python Tic Tac Toe
 Tic Tac Toe, simple. You can also add a scoreboard, so the user can see how many times he/she has won.
 ## 5. Python Hangman
-Hangman: is a simple game, where the user has to guess the word. If the user guesses the word, the user wins. If the user doesn't guess the word, the user loses. You can also add a scoreboard, so the user can see how many times he/she has won.
+Hangman is a simple game, where the user has to guess the word. If the user guesses the word, the user wins. If the user doesn't guess the word, the user loses. You can also add a scoreboard, so the user can see how many times he/she has won.
 ## 6. Python Rock Paper Scissors
 Roc Paper Scrissors is a simple game, hard to explain.
 ## 7. Python Dice Roller
