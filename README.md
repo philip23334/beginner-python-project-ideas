@@ -1,4 +1,5 @@
 # Python Project Ideas For Beginners
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0FQAI7)
 ## 1. Python Guessing Game
 So, you make a game that generates a random number between x and y. Then, the user has to guess the number. If the user guesses the number, the user wins. If the user doesn't guess the number, the user loses. You can also add a scoring system, so the user can see how many guesses he/she has made.
 ## 2. Python Calculator
